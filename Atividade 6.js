@@ -9,7 +9,7 @@ document.getElementById('calcularMenorBtn').addEventListener('click', function()
     if (valor2 < menorValor) {
         menorValor = valor2;
     }
-    if (valor3 < menorValor) {
+    if (valor3 < menorValor) { 
         menorValor = valor3;
     }
     if (valor4 < menorValor) {
